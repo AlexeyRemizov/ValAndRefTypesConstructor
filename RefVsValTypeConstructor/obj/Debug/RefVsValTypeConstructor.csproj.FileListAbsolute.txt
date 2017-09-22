@@ -1,0 +1,6 @@
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RefVsValTypeConstructor\RefVsValTypeConstructor\bin\Debug\RefVsValTypeConstructor.exe.config
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RefVsValTypeConstructor\RefVsValTypeConstructor\bin\Debug\RefVsValTypeConstructor.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RefVsValTypeConstructor\RefVsValTypeConstructor\bin\Debug\RefVsValTypeConstructor.pdb
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RefVsValTypeConstructor\RefVsValTypeConstructor\obj\Debug\RefVsValTypeConstructor.csprojResolveAssemblyReference.cache
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RefVsValTypeConstructor\RefVsValTypeConstructor\obj\Debug\RefVsValTypeConstructor.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\RefVsValTypeConstructor\RefVsValTypeConstructor\obj\Debug\RefVsValTypeConstructor.pdb
